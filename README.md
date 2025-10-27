@@ -6,6 +6,8 @@ It uses two deep learning models — one for hair length and another for age and
 👉 If the person’s age is between **20 and 30**, their gender is inferred from hair length.
 The system includes an **interactive Streamlit GUI** that lets users upload images and instantly view predictions.
 
+For trained age ml model - https://drive.google.com/drive/folders/1NYxcf5AmYcgZZepW6c-WrtaErTKIZXia?usp=sharing
+
 ⚙️ **Features**
 • Detects hair length using a CNN trained on the **CelebA** dataset.
 • Predicts age and gender using a CNN trained on the **UTKFace** dataset.
